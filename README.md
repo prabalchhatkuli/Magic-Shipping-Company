@@ -6,7 +6,8 @@ This program shows my understanding of:
                                                 iii)vectors
                                                 iv) inheritance and polymorphism
                                                 v) File input/output
-this program is run by a menu.
+
+This program is run by a menu.
 1. Schedule a new delivery. The program should
        a. Input and save
               i. The sender’s information
