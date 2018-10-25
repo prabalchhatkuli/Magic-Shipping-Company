@@ -1,7 +1,7 @@
 # Magic-Shipping-Company
 This program is a model of a shipping company made with my early computer science knowledge.
 This program shows my understanding of:
-                                                i) Onjects, Classes, object-oriented thinking
+                                                i) Objects, Classes, object-oriented thinking
                                                 ii)dynamic memory allocations and arrays
                                                 iii)vectors
                                                 iv) inheritance and polymorphism
