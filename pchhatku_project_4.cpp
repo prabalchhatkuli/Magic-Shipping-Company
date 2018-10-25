@@ -494,7 +494,7 @@ void save_file(vector<Delivery*> main_list ,unsigned int num)
       cin.ignore();
    }
    cout<<"Please enter the secret filename to save: ";
-   getline(cin,filename);
+   getline(cin,filename);//secret filename is filename.txt
    
    //open the file
    output.open(filename.c_str());
@@ -555,7 +555,7 @@ void load_file(vector<Delivery*> &main_list, unsigned int &num)
       cin.ignore();
    }
    cout<<"Please enter the secret filename to load: ";
-   getline(cin,filename);
+   getline(cin,filename);// secret filename is filename.txt
    
    //open the file
    input.open(filename.c_str());
